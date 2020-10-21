@@ -1,0 +1,60 @@
+ .navbar-dark{
+    background-color: rgb(255, 94, 0);
+}
+
+#p1 {
+    color: blue;
+}
+.thread-dark{
+    background-color: black;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    min-height: 400px;
+  }
+.row-header {
+    margin: 0px auto;
+    padding: 0px 0px;
+  }
+
+.headb{
+    text-align: center;
+    text-decoration-style: initial;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(10, 58, 10);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cust, .trans{
+    text-align: center;
+    font-size: 200;
+    
+}
+#c, #t{
+    color: floralwhite;
+}
+body{
+    padding: 50px 0px 50px 0px;
+ 
+}
+.footer{
+    background-color: rgb(255, 94, 0);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+
+#tc{
+    text-align: center;
+    font-size: 300%;
+}
+
+.tab{
+    align-items: center;
+}
